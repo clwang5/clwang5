@@ -17,6 +17,9 @@
   </h1>
 </div>
 
-<h2>I’m Charleston Wang</h2>
+---
 
+About Me :
+
+I am a student at the University of Illinois @ Urbana-Champaign pursuing a BS in Computer Science + Statistics.
 
