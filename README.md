@@ -17,6 +17,6 @@
   </h1>
 </div>
 
-- I’m Charleston Wang
+<h2>I’m Charleston Wang</h2>
 
 
