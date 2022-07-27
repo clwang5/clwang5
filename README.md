@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a target="_blank" rel="noopener noreferrer" href="your-linkedin-URL">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/charleston-wang-2003/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -17,9 +17,6 @@
   </h1>
 </div>
 
-- 👋 Hi, I’m @clwang5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m Charleston Wang
+
 
