@@ -7,7 +7,7 @@
     </a>
   </div>
   
-  <div id="header" align="center">
+  <div id="header">
     <img src="https://komarev.com/ghpvc/?username=clwang5&style=flat-square&color=blue" alt=""/>
   </div>
 
