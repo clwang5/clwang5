@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/charleston-wang-2003/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/clwang5/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
